@@ -446,13 +446,6 @@ header.escuro {
 
 @media screen and (max-width: 1024px) {
 
-    html, body {
-        overflow-x: hidden;
-      }
-      ::-webkit-scrollbar{
-        display: none;
-      }
-
     .sobremim {
         flex-direction: column;
         width: 100%;
