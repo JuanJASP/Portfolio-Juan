@@ -449,10 +449,6 @@ header.escuro {
     html, body {
         overflow-x: hidden;
       }
-      body {
-        position: relative
-      }
-
       ::-webkit-scrollbar{
         display: none;
       }
