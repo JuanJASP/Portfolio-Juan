@@ -178,7 +178,9 @@ button {
 
 .sobremim-foto {
     text-align: center;
-    width: 550px;
+    width: 90%; 
+    max-width: 550px;
+    margin: 0 auto; 
 }
 
 .sobremim-texto h1 {
@@ -224,8 +226,9 @@ button {
 }
 
 .sobremim-foto img {
-    width: 500px;
-    height: 500px;
+    width: 90%; 
+    max-width: 550px; 
+    height: auto; 
     border-radius: 50%;
     border: 3px solid #ff0534;
 }
